@@ -1,5 +1,8 @@
-**Matthew Mason**
-**Mt. Pearl, NL, A1N 1C8, (709) 330-1098, matthewmason@bellaliant.net**
+Matthew Mason\
+Mt. Pearl, NL, A1N 1C8\
+(709) 330-1098\
+matthewmason@bellaliant.net\
+----------------------------
 
 ## Professional Summary
 Software Developer and IT Support Specialist with 7+ years experience. Professional and resourceful problem solver who enjoys having the opportunity to expand knowledge and learn new skills. Comfortable working under deadlines, but always willing to pursue the best available solution.
