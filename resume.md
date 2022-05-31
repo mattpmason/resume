@@ -1,7 +1,7 @@
 Matthew Mason\
 Mt. Pearl, NL, A1N 1C8\
 (709) 330-1098\
-matthewmason@bellaliant.net\
+matthewmason@bellaliant.net
 ----------------------------
 
 ## Professional Summary
