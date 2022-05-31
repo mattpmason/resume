@@ -38,16 +38,12 @@ Office of the Chief Information Officer - Operations Division, July 2014 to Apri
 - Conducted decommission of disused computer assets according to data protection and e-waste disposal guidelines
 - Consulted with end-users via phone and messaging to review support requirements in-depth
 
-**Computer Support Specialist**
-
 Office of the Chief Information Officer – Price Waterhouse Coopers Contractor, April 2014 to June 2014, St. John’s, NL
 
 - Worked to deploy Windows 7 to client computers connected to the Government of Newfoundland and Labrador provincial network
 - Led and organized a small team of IT professionals who were tasked with preparing for and finalizing operating system deployment
 - Travelled to several locations in the province of Newfoundland and Labrador to ensure deployment success and troubleshoot where necessary
 - Consulted with end-users via phone and messaging to review support requirements in-depth
-
-**Computer Support Specialist**
 
 Office of the Chief Information Officer – Operations Division, September 2011 to December 2011, St. John’s, NL
 
