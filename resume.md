@@ -114,5 +114,4 @@ Office of the Chief Information Officer – Operations Division, September 2011 
 
 ## Certifications
 
-- Offensive Security Certified Professional (OSCP) - ongoing		
-	- Penetration testing with Kali Linux (PWK/PEN-200)
+- Offensive Security Certified Professional (OSCP) - Penetration testing with Kali Linux (PWK/PEN-200), ongoing
