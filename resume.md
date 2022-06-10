@@ -1,3 +1,11 @@
+---
+author: Matt Mason
+
+info: 
+- 'Created with Pandoc 2.9.2.1'
+- 'Github: https://github.com/mattpmason/resume'
+...
+
 **Matthew Mason**  
 **Mt. Pearl, NL, A1N 1C8**  
 **(709) 330-1098**  
@@ -24,7 +32,7 @@ Software Developer and IT Support Specialist with 7+ years experience. Professio
 Quorum Information Technologies, November 2017 to March 2020, St. John’s, NL
 
 - Developed software features using a .NET development environment to enhance in-house Dealer Management Software solution
-- Developed API features using a .NET development environment to faciliate data exchange between car dealerships and manufacturers in accordance with Standards for Technology in Automotive Retail (STAR)
+- Developed API features using a .NET development environment to facilitate data exchange between car dealerships and manufacturers in accordance with Standards for Technology in Automotive Retail (STAR)
 - Consulted with support staff via phone and messaging to review development requirements
 - Conducted development reviews with coworkers in-person or via phone and messaging to verify that solutions matched requirements
 - Managed software source code using Microsoft Visual Sourcesafe to ensure running integrity of deployed software
@@ -34,7 +42,7 @@ Quorum Information Technologies, November 2017 to March 2020, St. John’s, NL
 Office of the Chief Information Officer - Operations Division, July 2014 to April 2015, St. John’s, NL
 
 - Worked to research solutions using internal and external research materials to resolve user support requests
-- Maintained computers assets using research and conventional tools
+- Maintained computer assets using research and conventional tools
 - Conducted decommission of disused computer assets according to data protection and e-waste disposal guidelines
 - Consulted with end-users via phone and messaging to review support requirements in-depth
 
@@ -60,7 +68,6 @@ Office of the Chief Information Officer – Operations Division, September 2011 
 - Department of Fisheries and Oceans, Webmaster, 2007, Ottawa, ON
 
 ## Technical Skills
-
 - Programming and Scripting Languages
 	- C Sharp (C#, .NET)
 	- Active Server Pages (ASP)
