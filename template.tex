@@ -1,0 +1,45 @@
+\documentclass[
+$if(fontsize)$
+  $fontsize$,
+$endif$
+$if(papersize)$
+  $papersize$paper,
+$endif$
+$for(classoption)$
+  $classoption$$sep$,
+$endfor$
+]{$documentclass$}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{underscore}
+\usepackage[parfill]{parskip}
+\usepackage{lmodern}
+\usepackage[svgnames]{xcolor}
+\usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Add \tightlist so pandoc doesn't complain about it being missing
+\providecommand{\tightlist}{%
+    \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Extend horizontal rule to page margins
+\let\oldrule\rule
+\renewcommand{\rule}[2]{\oldrule{\textwidth}{0.4pt}}
+
+% Set margins to 1 inch
+\geometry{a4paper, margin=1in}
+
+% Set PDF metadata
+\hypersetup{
+    pdfauthor = $if(author)$$author$$endif$,
+    pdfinfo = $info$
+    %pdfinfo = $if(info)$$for(info)$$info$$sep$ \\ $endfor$$endif$
+}
+
+\begin{document}
+
+$body$
+
+\end{document}
