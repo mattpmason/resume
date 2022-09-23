@@ -27,6 +27,14 @@ Software Developer and IT Support Specialist with 7+ years experience. Professio
 
 ## Experience
 
+**Technical Support Contractor**
+
+The Employment Solution, June 2022, ongoing
+
+- Led small team of IT professionals on overnight computer hardware deployments at Scotiabank branches in Newfoundland and Labrador as part of countrywide hardware refresh project
+- Provided next-day support for Scotiabank branches in Newfoundland and Labrador following hardware deployments to confirm compliance with project delivery objectives
+- Deployed new computer hardware for selected remote work employees of RBC branches in Newfoundland and Labrador as part of larger hardware replacement and data migration project
+
 **Software Developer**
 
 Quorum Information Technologies, November 2017 to March 2020, St. John’s, NL
