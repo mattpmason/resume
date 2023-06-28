@@ -19,11 +19,13 @@ Software Developer and IT Support Specialist with 7+ years experience. Professio
 
 ## Relevant Skills
 
-- IT Support (Tier 2)
-- Infrastructure Monitoring
-- Web Development
-- Software Development
-- Windows and Linux
+- Team Leadership Roles
+- Project Delivery
+- System Administration
+- Business IT Infrastructure
+- Collaborative Development
+- Client Support
+- Interpersonal Skills
 
 ## Experience
 
@@ -31,9 +33,10 @@ Software Developer and IT Support Specialist with 7+ years experience. Professio
 
 The Employment Solution, June 2022, ongoing
 
+- Deployed new server and UPS hardware for TD bank branches in Newfoundland and Labrador, and decommissioned old hhardware, as part of a server infrastucture upgrade project
+- Deployed new computer hardware for selected remote work employees of RBC branches in Newfoundland and Labrador as part of a hardware replacement and data migration project
 - Led small team of IT professionals on overnight computer hardware deployments at Scotiabank branches in Newfoundland and Labrador as part of countrywide hardware refresh project
 - Provided next-day support for Scotiabank branches in Newfoundland and Labrador following hardware deployments to confirm compliance with project delivery objectives
-- Deployed new computer hardware for selected remote work employees of RBC branches in Newfoundland and Labrador as part of larger hardware replacement and data migration project
 
 **Software Developer**
 
