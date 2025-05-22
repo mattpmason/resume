@@ -15,7 +15,7 @@ info:
 
 ## Professional Summary
 
-Software Developer and IT Support Specialist with 7+ years experience. Professional and resourceful problem solver who enjoys having the opportunity to expand knowledge and learn new skills. Comfortable working under deadlines, but always willing to pursue the best available solution.
+Software Developer and IT Support Specialist with 9+ years experience. Professional and resourceful problem solver who enjoys having the opportunity to expand knowledge and learn new skills. Comfortable working under deadlines, but always willing to pursue the best available solution.
 
 ## Relevant Skills
 
@@ -78,33 +78,14 @@ Office of the Chief Information Officer – Operations Division, September 2011 
 - Q5 Systems, Web Developer, 2008, St. John's, NL
 - Department of Fisheries and Oceans, Webmaster, 2007, Ottawa, ON
 
-## Technical Skills
+## Technical Skills and Areas of Expertise
+
 - Programming and Scripting Languages
-	- C Sharp (C#, .NET)
-	- Active Server Pages (ASP)
-	- Hypertext Markup Language (HTML)
-	- Extensible Markup Language (XML)
-	- XML Schema Definition (XSD)
-	- Extensible Stylesheet Language (XSLT)
-	- Cascading Style Sheets (CSS)
-	- Java Server Pages (JSP)
-	- JavaScript
-	- Powerscript
-	- Cascading Syle Sheets (CSS)
-	- Python
-	- Bash
+	- .NET (C#), Java, Javascript, Python, XML/XSD/XSLT, Bash
 - Database Management
-	- Structured Query Language (SQL)
-	- SQL Server Management Studio
-	- Oracle Database
-	- PostgreSQL
-	- MySQL
+	- SQL, SSMS, Oracle, Postgres, MySQL
 - Source Control
-	- Microsoft Visual Sourcesafe (VSS)
-	- Git
-
-## Areas of Expertise
-
+	- Git, Microsoft VSS
 - IT Support
 	- Ticketing systems
 	- Desktop hardware maintenance, replacement, and provisioning
