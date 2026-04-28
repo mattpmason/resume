@@ -15,7 +15,7 @@ info:
 
 ## Professional Summary
 
-Software Developer and IT Support Specialist with 9+ years experience. Professional and resourceful problem solver who enjoys having the opportunity to expand knowledge and learn new skills. Comfortable working under deadlines, but always willing to pursue the best available solution.
+Software Developer and IT Support Specialist with 10+ years experience. Professional and resourceful problem solver who enjoys having the opportunity to expand knowledge and learn new skills. Comfortable working under deadlines, but always willing to pursue the best available solution.
 
 ## Relevant Skills
 
@@ -29,9 +29,18 @@ Software Developer and IT Support Specialist with 9+ years experience. Professio
 
 ## Experience
 
+**End-user Device (EUD) Technician**
+
+Mobia Technologies, April 2025 to present
+
+- Led small teams of IT professionals on deployment and configuration of computer hardware and peripherals at hospitals and medical clinics across the province of Newfoundland and Labrador as part of an organization-wide system upgrade project for Newfoundland and Labrador Health Services (NLHS)
+- Racked and configured networking hardware as part of a parallel network upgrade project
+- Installed and configured new wireless access points to expand and modernize Wifi service at all sites for new wireless devices
+- Used specialized tools to conduct Wifi heatmapping surveys to ensure sufficient signal strength and coverage in accordance with project requirements
+
 **Technical Support Contractor**
 
-The Employment Solution, June 2022, ongoing
+The Employment Solution, June 2022 - March 2024
 
 - Deployed new server and UPS hardware for TD bank branches in Newfoundland and Labrador, and decommissioned old hhardware, as part of a server infrastucture upgrade project
 - Deployed new computer hardware for selected remote work employees of RBC branches in Newfoundland and Labrador as part of a hardware replacement and data migration project
